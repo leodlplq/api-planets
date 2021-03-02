@@ -4,7 +4,7 @@ api planets from TP3 imac's web course
 # here's the routes
 
 ## GET
-/router.php/planetes - give all planets data \n
+/router.php/planetes - give all planets data  
 /router.php/planete/{id} - give one planet data
 
 ## POST 
